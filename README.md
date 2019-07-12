@@ -1,3 +1,3 @@
-#Example
+#Example Repository
 
 Welcome to new git
